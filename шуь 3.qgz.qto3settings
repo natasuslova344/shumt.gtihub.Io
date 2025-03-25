@@ -1,0 +1,112 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "________3_eadfab94_4c5d_493c_828a_7f53a9f88387": {
+        "enabled": true,
+        "groups": []
+      },
+      "________4_eb350149_3081_4caf_83d9_7b2a8c847748": {
+        "enabled": true,
+        "groups": []
+      },
+      "________5_2017220d_73d9_4a75_8613_cb3809493d81": {
+        "enabled": true,
+        "groups": []
+      },
+      "________6_a034d31b_67a8_4ed0_a15e_b5eca43f60a6": {
+        "enabled": true,
+        "groups": []
+      },
+      "________7_a87ead0e_8f2f_473a_a2bd_5f5c7f6b3175": {
+        "enabled": true,
+        "groups": []
+      },
+      "_________2_4330465f_3036_4192_a71d_b96306612d78": {
+        "enabled": true,
+        "groups": []
+      },
+      "____________________66c0fda0_7361_4160_bff5_3b62b2ee02b6": {
+        "enabled": true,
+        "groups": []
+      },
+      "________f598bd5b_7f07_4644_94ea_ff457aa688a6": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:601f0509": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "____________________66c0fda0_7361_4160_bff5_3b62b2ee02b6",
+      "name": "шумовое загрязнение",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________5_2017220d_73d9_4a75_8613_cb3809493d81",
+      "name": "полигон 5",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________4_eb350149_3081_4caf_83d9_7b2a8c847748",
+      "name": "полигон 4",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________3_eadfab94_4c5d_493c_828a_7f53a9f88387",
+      "name": "полигон 3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "_________2_4330465f_3036_4192_a71d_b96306612d78",
+      "name": "полигрон 2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________7_a87ead0e_8f2f_473a_a2bd_5f5c7f6b3175",
+      "name": "полтгон 7",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________6_a034d31b_67a8_4ed0_a15e_b5eca43f60a6",
+      "name": "полигон 6",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "________f598bd5b_7f07_4644_94ea_ff457aa688a6",
+      "name": "полигон",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:601f0509",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}
